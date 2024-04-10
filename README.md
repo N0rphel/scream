@@ -1,6 +1,6 @@
 # scream
 
-A new Flutter project.
+A flutter project where you have to scream.
 
 ## Getting Started
 
